@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gunwoo</h1>
-<h3 align="center">High school student dreaming of becoming a security expert</h3>
+<h1 align="left">Hi 👋, I'm Gunwoo</h1>
+<h3 align="left">High school student dreaming of becoming a security expert</h3>
 
 - 📫 How to reach me **ddollam2@gmail.com**
 
