@@ -2,7 +2,7 @@
 
 <h4 align="left">Welcome to my page!
  
-I'm studying security at high school FromKorea</h4>
+I'm studying security at high school From Korea</h4>
 -📖 I’m currently learning Building a virtual network environment
 
 -📫 How to reach me ddollam2@gmail.com
