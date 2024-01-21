@@ -1,4 +1,4 @@
-<h1 align="left">![header](https://capsule-render.vercel.app/api?type=vemon&color=timeGradient&text=%20LJB%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=200) </h1>
+<h1 align="left">![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20gunwoo%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=200)</h1>
 <h3 align="left">High school student dreaming of becoming a security expert</h3>
 
 📫 How to reach me ddollam2@gmail.com
