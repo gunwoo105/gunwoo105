@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20gunwoo%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=200)
 
+<h3 align="left">Welcome to my page!</h3>
+<h3 align="left">I'm studying security at high school From Korea</h3>
 -📖 I’m currently learning **Building a virtual network environment**
 
 -📫 How to reach me ddollam2@gmail.com
