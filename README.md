@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20gunwoo%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=200)
 
 -📖 I’m currently learning **Building a virtual network environment**
+</p>
 -📫 How to reach me ddollam2@gmail.com
 
 <h3 align="left">my logs:</h3>
