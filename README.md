@@ -4,7 +4,6 @@
 📫 How to reach me ddollam2@gmail.com
 
 <h3 align="left">my logs:</h3>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgunwoo105&count_bg=%238987E3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 [![wooung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwoo105&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 <p align="left">
