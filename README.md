@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=%20gunwoo%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=200)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=%20gunwoo%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=200&fontColor=d6ace6)
 
 <h4 align="left">Welcome to my page!
  
