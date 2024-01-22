@@ -12,7 +12,11 @@ I'm studying security at high school From Korea</h4>
     <img src="https://img.shields.io/badge/Skill competition-808080?style=for-the-badge"> 
     </a>
 
--📫 How to reach me ddollam2@gmail.com
+-📫 How to reach me</br> 
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/wooung_105/?hl=ko">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
 
 <h3 align="left">my logs:</h3>
  
