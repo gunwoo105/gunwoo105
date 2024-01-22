@@ -4,7 +4,7 @@
  
 I'm studying security at high school From Korea</h4>
 -📖 I’m currently learning **Building a virtual network environment**
-ㅇㅁㄹ
+asdf
 
 -📫 How to reach me ddollam2@gmail.com
 
