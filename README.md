@@ -3,7 +3,7 @@
 <h4 align="left">Welcome to my page!
  
 I'm studying security at high school From Korea</h4>
--📖 I’m currently learning **Building a virtual network environment**</br>
+-📖 I’m currently learning **Building a virtual network environment**
     <h5>↓Related literature↓<h5>
     <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/gunwoo105/PK-project">
