@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=4DD6D3&text=%20Hi%20👋,%20I'm%20Gunwoo%20&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=200&fontColor=000000)
 
 <h4 align="left">Welcome to my page!
- ##
+
 I'm studying security at high school From Korea</h4>
 -📖 I’m currently learning **Building a virtual network environment**</br>
     ↓Related data↓
