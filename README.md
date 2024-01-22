@@ -5,7 +5,7 @@
 I'm studying security at high school From Korea</h4>
 -📖 I’m currently learning **Building a virtual network environment**</br>
     <div style="display:flex; flex-direction:row;">
-    <a href="[https://qpzm1010.github.io/portfolio/](https://github.com/gunwoo105/PK-project)">
+    <a href="https://github.com/gunwoo105/PK-project">
     <img src="https://img.shields.io/badge/PK-project-FFC0CB?style=for-the-badge"> 
     </a>
 
