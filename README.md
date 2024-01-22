@@ -6,10 +6,10 @@ I'm studying security at high school From Korea</h4>
 -📖 I’m currently learning **Building a virtual network environment**</br>
     <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/gunwoo105/PK-project">
-    <img src="https://img.shields.io/badge/practice-FFC0CB?style=for-the-badge"> 
+    <img src="https://img.shields.io/badge/practice-FFC00B?style=for-the-badge"> 
     </a>
     <a href="https://https://github.com/gunwoo105/Skill-competition-training">
-    <img src="https://img.shields.io/badge/Skill competition-FFC00B?style=for-the-badge"> 
+    <img src="https://img.shields.io/badge/Skill competition-808080?style=for-the-badge"> 
     </a>
 
 -📫 How to reach me ddollam2@gmail.com
