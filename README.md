@@ -8,6 +8,9 @@ I'm studying security at high school From Korea</h4>
     <a href="https://github.com/gunwoo105/PK-project">
     <img src="https://img.shields.io/badge/practice-FFC0CB?style=for-the-badge"> 
     </a>
+    <a href="https://https://github.com/gunwoo105/Skill-competition-training">
+    <img src="https://img.shields.io/badge/Skill competition-FFC0CB?style=for-the-badge"> 
+    </a>
 
 -📫 How to reach me ddollam2@gmail.com
 
